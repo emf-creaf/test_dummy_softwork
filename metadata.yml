@@ -1,0 +1,25 @@
+id: test_dummy_softwork
+emf_type: softwork
+emf_public: true
+emf_automatized: true
+emf_reproducible: false
+emf_draft: false
+nodes: ''
+authors:
+- vgranda
+- emf
+authors_aff:
+- CREAF
+- CREAF
+resource_link: softworks/test_dummy_softwork
+thematic: dummy
+tags:
+- r
+- dummy
+requirements: ''
+description: A very dummy package, for testing purposes
+title: test_dummy_softwork
+date: '2021-09-08'
+date_lastmod: '2021-09-08'
+categories: softwork
+
