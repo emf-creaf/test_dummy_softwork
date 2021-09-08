@@ -1,0 +1,36 @@
+---
+title: "Dummy"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Dummy}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(testdummysoftwork)
+```
+
+# Hey, a dummy package!!
+
+```{r}
+dummy_function()
+```
+
+## We can repeat it as many times you want!!
+
+But no more than 10 or less than 1 :P
+
+```{r}
+dummy_multiplier(5)
+dummy_multiplier(11)
+dummy_multiplier(0)
+```
+
