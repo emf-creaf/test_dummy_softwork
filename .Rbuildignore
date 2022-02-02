@@ -4,3 +4,4 @@
 ^docs$
 ^pkgdown$
 ^metadata\.yml$
+^README\.Rmd$

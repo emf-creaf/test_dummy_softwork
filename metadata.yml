@@ -8,15 +8,15 @@ nodes: ''
 authors:
 - vgranda
 - emf
-authors_aff:
-- CREAF
-- CREAF
 resource_link: softworks/test_dummy_softwork
 thematic: dummy
 tags:
 - r
 - dummy
 requirements: ''
+links:
+  url_source: ''
+  url_docs: ''
 description: A very dummy package, for testing purposes
 title: test_dummy_softwork
 date: '2021-09-08'
