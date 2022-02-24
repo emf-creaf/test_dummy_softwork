@@ -33,7 +33,7 @@ devtools::install_github("emf-creaf/test_dummy_softwork")
 
 This is a basic example which shows you how to solve a common problem:
 
-```{r example}
+```{r example, eval=FALSE}
 library(testdummysoftwork)
 ## basic example code
 ```
