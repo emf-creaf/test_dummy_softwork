@@ -14,7 +14,7 @@ tags:
 - dummy
 requirements: ''
 links:
-  url_source: ''
+  url_source: 'https://github.com/emf-creaf/test_dummy_softwork'
   url_docs: ''
 description: A very dummy package, for testing purposes
 title: test_dummy_softwork
